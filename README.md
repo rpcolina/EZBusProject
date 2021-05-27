@@ -27,9 +27,9 @@ A bus-hailing app to help give Filipino commuters a seamless way to reserve ride
 
 
 ### EZBus project by:
-Bongalon, Ressa Mae 
-Colina, Rita Isabel
-Diamante, Maria Dianne
-Lorente, Haron Paul
-Palicpic, Shane
+- Bongalon, Ressa Mae 
+- Colina, Rita Isabel
+- Diamante, Maria Dianne
+- Lorente, Haron Paul
+- Palicpic, Shane
 
